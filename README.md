@@ -5,11 +5,11 @@
 This project is a **PCB design for an Audio Amplifier Circuit**, built using the **LM386** audio amplifier IC. The design includes basic tone control using bass, gain, and volume settings. It is suitable for learning:
 
 * Analog circuit PCB design
-* Schematic to PCB workflow in Altium
+* Schematic to PCB workflow in EasyEDA
 * DRC-compliant layout practices
 * Clean analog signal routing
 
-This project is a part of my ongoing PCB design practice using **Altium Designer 25.2.1**.
+This project is a part of my ongoing PCB design practice using **EasyEDA Designer **.
 
 ## 🎯 Features
 
@@ -23,17 +23,8 @@ This project is a part of my ongoing PCB design practice using **Altium Designer
 
 * Analog component placement and signal flow understanding
 * Schematic capture and component annotation
-* PCB routing in Altium Designer with attention to analog paths
+* PCB routing in EasyEDA Designer with attention to analog paths
 * Creation of documentation (schematic, PCB print, netlist)
-
-## 🗂️ Files Included
-
-| File Name             | Description                                     |
-| --------------------- | ----------------------------------------------- |
-| `Audio_amplifier.pdf` | Complete schematic and PCB layout documentation |
-| `schema.SchDoc`       | Altium schematic file (not uploaded)            |
-| `PCB1.PcbDoc`         | Altium PCB layout file (not uploaded)           |
-| `*.PrjPcb`            | Altium project file (not uploaded)              |
 
 ## 🔩 Components Used
 
@@ -45,7 +36,7 @@ This project is a part of my ongoing PCB design practice using **Altium Designer
 
 ## 🖥️ Software Used
 
-* **Altium Designer 25.2.1**
+* **EasyEDA**
 
 ## 🔧 How It Works
 
@@ -56,7 +47,7 @@ This project is a part of my ongoing PCB design practice using **Altium Designer
 
  🧑‍💻 Designed By
 
-**Mohit Jagtap**  
+**Hariom Tiwari**  
 Electronics & Telecommunication Engineering  
 Dr. D. Y. Patil Institute of Engineering Management and Research, Akurdi, Pune
 
